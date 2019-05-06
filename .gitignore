@@ -36,3 +36,4 @@
 *.ini
 *.pyc
 __pycache__/
+notes.txt
